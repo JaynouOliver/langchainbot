@@ -13,3 +13,4 @@ lancedb
 chromadb
 faiss-cpu
 langchain-cohere
+getpass4
