@@ -9,6 +9,7 @@ uvicorn
 sse_starlette
 bs4
 pypdf
+lancedb
 chromadb
 faiss-cpu
 langchain-cohere
